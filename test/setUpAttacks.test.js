@@ -1,4 +1,4 @@
-import setUpAttacks from '../src/js/script';
+import setUpAttacks from '../src/js/setUpAttacks';
 
 test('test 1', () => {
   const characters = [
